@@ -1,0 +1,54 @@
+*{
+	font-family:"verdana";
+}
+
+nav{
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px; 
+	border-bottom-right-radius:30px;  
+	background-color: #ff7e2a;
+	background-position: absolute;
+	background-size: 100% 150%;
+	height:60px;
+}
+ul{
+	list-style-type:none;
+}
+li{
+	display: inline-block;
+	padding: 21px;
+	text-decoration:none;
+}
+li:hover{
+	background-color:rgba(0,0,0,0.5);
+}
+body {
+	background-image: url("https://i.imgur.com/W0TwU14.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+} 
+h1{
+	color: white;
+    text-align:center;
+}
+h2{
+	color: white;
+	text-align:center;
+}
+h3{
+	color: aqua;
+	text-align:center;
+}
+h4{
+	color: white;
+	text-align:center;
+}
+button{
+	border-top-left-radius:25px;
+	border-top-right-radius:25px;
+	border-bottom-left-radius:25px; 
+	border-bottom-right-radius:25px;
+	height:40px;
+}
